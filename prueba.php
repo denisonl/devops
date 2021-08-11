@@ -1,1 +1,1 @@
-<? echo prueba; ?>
+<? echo "prueba"; ?>
